@@ -1,5 +1,6 @@
 #6.0 IS not a player program where it is a built in AI playing the game instead of a person
 #6.0 uses an AI player that tackels the game using Binary approach when taking guesses
+#Two variables are created within the game loop to limit the search in being half the maximuma and minimum value based if the main guess is too high or too low
 
 import random
 import time
