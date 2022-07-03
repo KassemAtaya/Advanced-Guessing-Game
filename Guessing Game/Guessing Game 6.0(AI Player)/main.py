@@ -1,5 +1,5 @@
 #6.0 IS not a player program where it is a built in AI playing the game instead of a person
-#6.0 uses an AI player that tackels the game using Binary search
+#6.0 uses an AI player that tackels the game using Binary approach when taking guesses
 
 import random
 import time
