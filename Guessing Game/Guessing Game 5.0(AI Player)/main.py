@@ -1,5 +1,6 @@
 #5.0 IS not a player program where it is a built in AI playing the game instead of a person
 #5.0 uses an AI player that tackels the game using a linear approach when taking guesses. 
+#It starts at 0 than the guesses keep increasing by one till the final answer is found
 
 import random
 import time
